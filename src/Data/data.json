@@ -1,0 +1,66 @@
+{
+    "chocolates": [
+      {
+        "name": "Chocolate tube",
+        "price": "00:00",
+        "weight": "500ml",
+        "image": "src/assets/Chocolate 1 copy 1.png"
+      },
+      {
+        "name": "Chocolate tube",
+        "price": "00:00",
+        "weight": "500ml",
+        "image": "src/assets/Chocolate 2 copy 1.png"
+      },
+      {
+        "name": "Chocolate tube",
+        "price": "00:00",
+        "weight": "500ml",
+        "image": "src/assets/Chocolate 3 copy 1.png"      }
+    ],
+    "vanila": [
+        {
+          "name": "Vanila tora tora",
+          "price": "00:00",
+          "weight": "500ml",
+          "image": "src/assets/Chocolate 3 copy 1.png"
+        },
+        {
+          "name": "Chocolate tube",
+          "price": "00:00",
+          "weight": "500ml",
+          "image": "src/assets/Vanilla 1 1.png"
+        },
+        {
+          "name": "Chocolate tube",
+          "price": "00:00",
+          "weight": "500ml",
+          "image": "src/assets/Vanilla 1 copy 1.png"      }
+      ],
+      "pista": [
+        {
+            "name": "Vanila tora tora",
+            "price": "00:00",
+            "weight": "500ml",
+            "image": "src/assets/Chocolate 3 copy 1.png"
+          },
+          {
+            "name": "Chocolate tube",
+            "price": "00:00",
+            "weight": "500ml",
+            "image": "src/assets/Vanilla 1 1.png"
+          },
+          {
+            "name": "Chocolate tube",
+            "price": "00:00",
+            "weight": "500ml",
+            "image": "src/assets/Vanilla 1 copy 1.png"      }
+      ]
+      
+
+  }
+  
+  
+   
+  
+  
